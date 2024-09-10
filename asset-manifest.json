@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/radar-interface/static/css/main.297bd4f1.css",
+    "main.js": "/radar-interface/static/js/main.b8000953.js",
+    "static/media/radar_background.gif": "/radar-interface/static/media/radar_background.ade9b5e399891cdfeea8.gif",
+    "index.html": "/radar-interface/index.html",
+    "main.297bd4f1.css.map": "/radar-interface/static/css/main.297bd4f1.css.map",
+    "main.b8000953.js.map": "/radar-interface/static/js/main.b8000953.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.297bd4f1.css",
+    "static/js/main.b8000953.js"
+  ]
+}
